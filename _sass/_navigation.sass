@@ -74,11 +74,26 @@
 	padding-left: 15px
 	// height: 52px
 
+.nav-cta
+	background: $brand
+	border-radius: 5px
+	color: white
+	border: 1px solid $brand
+	@include transition(0.3s)
+	&:hover
+		@include transform(scale(1.05))
+		@include transform(translateY(-0.2rem))
+		color: $brand
+		background: white
+		border: 1px solid $brand
+
 .navbar-left
 	margin-top: 1.2rem
+	margin-bottom: 1.2rem
 
 .navbar-right
 	margin-top: 1.2rem
+	margin-bottom: 1.2rem
 	a
 		font-weight: bold
 
