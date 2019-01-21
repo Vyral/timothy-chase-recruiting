@@ -22,7 +22,9 @@ youtube_code: faQvCWp25ls
 
 {% include youtube.html %}
 
-<center>Believe it or not, VA offers are often the better loan option when considered against conventional or FHA loans. Here’s why.</center>
+<center><em>Believe it or not, VA offers are often the better loan option when considered against conventional or FHA loans. Here&rsquo;s why.</em></center>
+
+&nbsp;
 
 There’s a persistent myth promulgated around the real estate community that an offer on a home done through a VA loan is “weak” in comparison to conventional offers. I’d like to present four points that demonstrate that this isn’t the case:
 
