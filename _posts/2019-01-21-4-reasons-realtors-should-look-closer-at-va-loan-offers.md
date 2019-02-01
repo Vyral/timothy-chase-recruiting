@@ -3,7 +3,8 @@ layout: post
 title: 4 Reasons Realtors Should Look Closer at VA Loan Offers
 date: 2019-01-21 00:00:00
 tags:
-  - Transaction Management
+  - Real Estate
+  - Home Buyer Tips
 excerpt: >-
   Believe it or not, VA offers are often the better loan option when considered
   against conventional or FHA loans. Here’s why.
