@@ -9,7 +9,7 @@ excerpt: >-
   Believe it or not, VA offers are often the better loan option when considered
   against conventional or FHA loans. Here’s why.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Tim+Chase/Videos/719+Lending+-+4+Reasons+Sellers+Should+Look+Closer+at+VA+Loan+Offers.mp4
+  https://s3.amazonaws.com/vyralmarketing/Tim+Chase/Videos/719+Lending+-+4+Reasons+Realtors+Should+Look+Closer+at+VA+Loan+Offers.mp4
 pullquote: >-
   Providing veterans with 100% financing and all the benefits that come with a
   VA loan are just small ways we can repay them for the sacrifices they’ve laid
