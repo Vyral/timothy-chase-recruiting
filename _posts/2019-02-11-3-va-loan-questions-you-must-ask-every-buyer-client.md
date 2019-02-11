@@ -24,7 +24,7 @@ youtube_code: QCzBZaenMoA
 
 &nbsp;
 
-When speaking with a client about buying a home, there are three questions you absolutely must ask them, and each question revolves around one thing: VA financing.
+When speaking with a client about buying a home, there are three questions you absolutely must ask them, and each question revolves around one thing: VA financing
 
 In other words, is your client VA eligible? If they are, they can take advantage of some key benefits—they don’t have to put any money down, the qualifying process is much easier, and they get offered much better rates.
 
