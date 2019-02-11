@@ -20,7 +20,9 @@ youtube_code: QCzBZaenMoA
 
 {% include youtube.html %}
 
-<center>There are three questions you need to ask every client when talking with them about buying a house.</center>
+<center><em>There are three questions you need to ask every client when talking with them about buying a house.</em></center>
+
+&nbsp;
 
 When speaking with a client about buying a home, there are three questions you absolutely must ask them, and each question revolves around one thing: VA financing.
 
