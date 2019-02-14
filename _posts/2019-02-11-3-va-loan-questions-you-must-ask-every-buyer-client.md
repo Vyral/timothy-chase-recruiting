@@ -4,7 +4,6 @@ title: 3 VA Loan Questions You Must Ask Every Buyer Client
 date: 2019-02-11 00:00:00
 tags:
   - Real Estate
-  - Mortgage Lenders
 excerpt: >-
   There are three questions you need to ask every client when talking with them
   about buying a house.
@@ -15,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/1-31---tim-chase---yt.jpg
-youtube_code: QCzBZaenMoA
+youtube_code: EmKa9zC6MlA
 ---
 
 {% include youtube.html %}
 
 <center><em>There are three questions you need to ask every client when talking with them about buying a house.</em></center>
 
-&nbsp;
+ 
 
 When speaking with a client about buying a home, there are three questions you absolutely must ask them, and each question revolves around one thing: VA financing.
 
