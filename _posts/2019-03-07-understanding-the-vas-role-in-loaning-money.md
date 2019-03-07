@@ -21,11 +21,13 @@ youtube_code: y2fyCjPOX_s
 
 {% include youtube.html %}
 
-<center>Did you know that the VA doesn’t actually loan money to veterans? Here’s how the VA loan actually works.</center>
+<center><em>Did you know that the VA doesn&rsquo;t actually loan money to veterans? Here&rsquo;s how the VA loan actually works.</em></center>
 
-The VA doesn’t loan money to veterans.&nbsp;
+&nbsp;
 
-No, we’re not reporting a recent change in the VA’s policy, but we are trying to create a more informed understanding of how VA loans actually work.&nbsp;
+The VA doesn’t loan money to veterans.
+
+No, we’re not reporting a recent change in the VA’s policy, but we are trying to create a more informed understanding of how VA loans actually work.
 
 **Here’s what you need to know**.
 
