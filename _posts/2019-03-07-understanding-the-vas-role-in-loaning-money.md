@@ -16,14 +16,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-7---tim-chase---yt.jpg
-youtube_code: y2fyCjPOX_s
+youtube_code: xWI6Sq4PYQA
 ---
 
 {% include youtube.html %}
 
 <center><em>Did you know that the VA doesn&rsquo;t actually loan money to veterans? Here&rsquo;s how the VA loan actually works.</em></center>
 
-&nbsp;
+ 
 
 The VA doesn’t loan money to veterans.
 
