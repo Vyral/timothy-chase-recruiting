@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding the VA’s Role in Loaning Money
+title: VA Does Not Loan You Money
 date: 2019-03-07 00:00:00
 tags:
   - Real Estate
@@ -16,12 +16,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-7---tim-chase---yt.jpg
-youtube_code: QaXFKjWWlR4
+youtube_code: feGheIZEifI
 ---
 
 {% include youtube.html %}
 
 <center><em>Did you know that the VA doesn&rsquo;t actually loan money to veterans? Here&rsquo;s how the VA loan actually works.</em></center>
+
+&nbsp;
 
 The VA doesn’t loan money to veterans.
 
