@@ -23,7 +23,7 @@ youtube_code: WmgMP_j27Z0
 
 &nbsp;
 
-If you’re a veteran who wants to buy a house that exceeds the county loan limit, how much would you need to put down? As you probably know, the VA does allow for 100% financing, but if you exceed the loan limit for your particular county, then you do have to put money down on the amount by which you exceeded the limit.
+If you’re a veteran who wants to buy a house that exceeds the county loan limit, how much would you need to put down? As you probably know, the VA does allow for 100% financing, but **if you exceed the loan limit for your particular county, then you do have to put money down on the amount by which you exceeded the limit**.
 
 For example, if your county limit is $484,350 and you want to borrow $584,350 to buy a house, the VA rule says that you should put down 25% of that overage. In my example, that means you’d put down $25,000, which is still a very good deal.
 
