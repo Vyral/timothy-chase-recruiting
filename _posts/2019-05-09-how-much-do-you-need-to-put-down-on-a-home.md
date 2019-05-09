@@ -5,9 +5,7 @@ date: 2019-05-09 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
-excerpt: >-
-  How much of a down payment do veterans need when they go to buy a house? Today
-  I’ll discuss how down payments interact with county loan limits.
+excerpt: Today I’ll discuss how down payments interact with county loan limits.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
