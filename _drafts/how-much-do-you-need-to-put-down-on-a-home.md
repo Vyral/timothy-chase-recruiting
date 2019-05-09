@@ -19,7 +19,7 @@ youtube_code: WmgMP_j27Z0
 
 {% include youtube.html %}
 
-How much of a down payment do veterans need when they go to buy a house? Today I’ll discuss how down payments interact with county loan limits.
+<center>How much of a down payment do veterans need when they go to buy a house? Today I’ll discuss how down payments interact with county loan limits.</center>
 
 If you’re a veteran who wants to buy a house that exceeds the county loan limit, how much would you need to put down? As you probably know, the VA does allow for 100% financing, but if you exceed the loan limit for your particular county, then you do have to put money down on the amount by which you exceeded the limit.&nbsp;
 
