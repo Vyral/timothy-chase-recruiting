@@ -44,7 +44,7 @@ second_sidebar_CTA:
     CTA_title2: Need a VA loan?
     CTA_text2: Get Qualified with the help of our expertise.
     CTA_link_text2: Apply Now
-    CTA_url2: 'http://719lending.com/apply-now/'
+    CTA_url2: 'https://timchase.floify.com/apply-now'
 lender:
   show_section: false
   header_text: Preferred Lender
