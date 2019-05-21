@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Today I’ll discuss how down payments interact with county loan limits.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tim+Chase/Videos/719+Lending+-+How+Much+Do+You+Need+to+Put+Down+on+a+Home_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
