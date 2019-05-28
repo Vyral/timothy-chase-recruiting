@@ -6,8 +6,7 @@ tags:
   - Home Buyer Tips
 excerpt: >-
   Many of my veteran clients ask me, “Do I need to get an inspection?” “What’s
-  the difference between an inspection and an appraisal?” Learn the answers
-  right here.
+  the difference between an inspection and an appraisal?”
 enclosure:
 pullquote:
 enclosure_type: video/mp4
