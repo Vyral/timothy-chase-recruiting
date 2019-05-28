@@ -19,7 +19,7 @@ youtube_code: tHmVMYY7CK0
 
 {% include youtube.html %}
 
-Many of my veteran clients ask me, “Do I need to get an inspection?” “What’s the difference between an inspection and an appraisal?” Learn the answers right here.
+<center>Many of my veteran clients ask me, “Do I need to get an inspection?” “What’s the difference between an inspection and an appraisal?” Learn the answers right here.</center>
 
 An appraisal is required by the VA when veterans go to purchase a home, but the home inspection is optional. Sometimes, veterans get confused because it feels like the appraiser is inspecting the home, and to a point, they are—appraisers do inspect a few things, but that’s limited to health and safety issues such as broken glass, peeling paint, etc. However, **the ultimate point of an appraiser’s job is to determine the value of the home to make sure that you’re getting a fair deal on the house**.
 
