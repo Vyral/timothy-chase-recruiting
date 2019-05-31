@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-28---tim-chase---yt.jpg
-youtube_code: tHmVMYY7CK0
+youtube_code: oq5QsSIlPNU
 ---
 
 {% include youtube.html %}
