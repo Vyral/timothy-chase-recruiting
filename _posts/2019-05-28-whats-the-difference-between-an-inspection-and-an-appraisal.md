@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Many of my veteran clients ask me, “Do I need to get an inspection?” and
   “What’s the difference between an inspection and an appraisal?”
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Chase/Videos/719+Lending+-+Whats+the+Difference+Between+an+Inspection+and+an+Appraisal_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
