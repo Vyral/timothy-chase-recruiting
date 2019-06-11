@@ -7,7 +7,7 @@ tags:
   - Home Buyer Tips
 excerpt: >-
   You can use a second VA loan to buy a second home, but there are a few things
-  you should know before you start the process. Here’s my advice.
+  you should know before you start the process.
 enclosure:
 pullquote: You can only use the rental amount to offset your current mortgage.
 enclosure_type: video/mp4
