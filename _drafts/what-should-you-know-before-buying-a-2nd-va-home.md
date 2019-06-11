@@ -19,7 +19,7 @@ youtube_code: lOWHh8I9dYA
 
 {% include youtube.html %}
 
-You can use a second VA loan to buy a second home, but there are a few things you should know before you start the process. Here’s my advice.
+<center>You can use a second VA loan to buy a second home, but there are a few things you should know before you start the process. Here’s my advice.</center>
 
 If you own a house using VA financing and want to rent it out, then buy another home with a second VA loan, you can. **However, the real question is how we treat your current house that you’re about to turn into a rental**. The VA has some very specific rules for that.
 
