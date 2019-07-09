@@ -5,7 +5,8 @@ date: 2019-07-02 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: How much can you borrow with a VA loan? Find out today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Chase/Videos/What+is+the+Maximum+Amount+You+Can+Borrow+With+a+VA+Loan_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
