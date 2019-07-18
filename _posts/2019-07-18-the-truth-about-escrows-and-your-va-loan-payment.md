@@ -19,7 +19,9 @@ youtube_code: OvbpTVle92E
 
 {% include youtube.html %}
 
-<center>We’re here today to answer a common question about VA loan payments and what exactly is required. Here’s what you need to know.</center>
+<center><em>We&rsquo;re here today to answer a common question about VA loan payments and what exactly is required. Here&rsquo;s what you need to know.</em></center>
+
+&nbsp;
 
 **We get a question from time to time that goes like this:** “Do I have to include escrows with my VA mortgage payment?” This is a very good question because most banks will tell you yes, you have to put the escrows in as part of a loan. These include the interest and taxes associated with your payment.
 
