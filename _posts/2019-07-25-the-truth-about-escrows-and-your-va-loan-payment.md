@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Truth About Escrows and Your VA Loan Payment
-date: 2019-07-18 00:00:00
+date: 2019-07-25 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
