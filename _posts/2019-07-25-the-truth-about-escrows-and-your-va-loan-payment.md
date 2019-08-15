@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   We’re here today to answer a common question about VA loan payments and what
   exactly is required. Here’s what you need to know.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Chase/Videos/The+Truth+About+Escrows+and+Your+VA+Loan+Payment.mp4
 pullquote: You are not required to include escrows with your loan payment.
 enclosure_type: video/mp4
 enclosure_time:
