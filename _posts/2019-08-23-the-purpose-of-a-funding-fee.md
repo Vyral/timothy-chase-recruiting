@@ -16,7 +16,9 @@ youtube_code: l1RWEDBRCVc
 
 {% include youtube.html %}
 
-<center>Why does the VA charge veteran homebuyers a funding fee? Find out today.</center>
+<center><em>Why does the VA charge veteran homebuyers a funding fee? Find out today.</em></center>
+
+&nbsp;
 
 From time to time, veterans will reach out to us asking, “If I buy a house for $300,000, why is the VA charging me another $9,000 on top of that?”
 
