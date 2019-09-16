@@ -5,7 +5,8 @@ date: 2019-08-23 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Why does the VA charge veteran homebuyers a funding fee?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Chase/Videos/The+Purpose+of+a+Funding+Fee.mp4
 pullquote: The funding fee funds the entire VA program.
 enclosure_type: video/mp4
 enclosure_time:
